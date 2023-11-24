@@ -1,0 +1,11 @@
+{
+	"name": "Passwg",
+	"version": "1.0.0",
+	"description": "A unique password generator",
+	"manifest_version": 3,
+	"author": "Julian Metzger",
+	"action": {
+		"default_popup": "index.html",
+		"default_title": "Passwg"
+	}
+}
